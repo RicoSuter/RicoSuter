@@ -1,4 +1,3 @@
-<h2>Links</h2>
 <ul>
    <li><a href="https://blog.rsuter.com">My Blog</a></li>
    <li><a href="https://blog.rsuter.com/projects">My Projects</a></li>
